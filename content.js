@@ -108,6 +108,6 @@ function injectPinButtons() {
   setInterval(() => {
     injectPinButtons();
     renderPinnedChats();
-  }, 2000);
+  }, 1500);
   
   
